@@ -1,4 +1,7 @@
 
+
+
+
 a=list(map(int,input().split(",")))
 arr=[]
 for i in a:
